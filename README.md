@@ -15,11 +15,12 @@ The following **required** functionality is completed:
 <!-- 👉🏿👉🏿👉🏿 Make sure to check off completed functionality below -->
 - [x] **A logical component structure in React is used to create the frontend of the app**
 - [x] **At least five content creators are displayed on the homepage of the app**
-      👉<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-      
+      👉<img src='https://github.com/user-attachments/assets/7b73fa0b-c468-4a21-b900-b097fc913112' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+    
+
 - [x] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
-      👉<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-      
+      👉<img src='https://github.com/user-attachments/assets/33acb98c-eca8-473c-9632-54424fc35403' title='Video Walkthrough' width='450' height='450' alt='Video Walkthrough' />
+
 - [x] **API calls use the async/await design pattern via Axios or fetch()**
 - [x] **Clicking on a content creator item takes the user to their details page, which includes their name, url, and description**
       👉<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
@@ -46,7 +47,6 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xrUqY7b" data-context="false" ><a href="//imgur.com/a/xrUqY7b"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap 👉🏿 GIF tool here: https://licecap.en.download.it/
