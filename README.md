@@ -19,7 +19,7 @@ The following **required** functionality is completed:
     
 
 - [x] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
-      👉<img src='https://github.com/user-attachments/assets/33acb98c-eca8-473c-9632-54424fc35403' title='Video Walkthrough' width='450' height='450' alt='Video Walkthrough' />
+      👉<img src='https://github.com/user-attachments/assets/33acb98c-eca8-473c-9632-54424fc35403' title='Video Walkthrough' width='850' height='450' alt='Video Walkthrough' />
 
 - [x] **API calls use the async/await design pattern via Axios or fetch()**
 - [x] **Clicking on a content creator item takes the user to their details page, which includes their name, url, and description**
