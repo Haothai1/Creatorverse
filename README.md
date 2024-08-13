@@ -49,7 +49,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 https://imgur.com/xrUqY7b
-👉<img src='https://i.imgur.com/xrUqY7b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap 👉🏿 GIF tool here: https://licecap.en.download.it/
