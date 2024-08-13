@@ -18,25 +18,26 @@ The following **required** functionality is completed:
       👉<img src='https://github.com/user-attachments/assets/7b73fa0b-c468-4a21-b900-b097fc913112' title='Video Walkthrough' width='' alt='Video Walkthrough' />
     
 
-- [x] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
-      👉<img src='https://github.com/user-attachments/assets/33acb98c-eca8-473c-9632-54424fc35403' title='Video Walkthrough' width='850' height='450' alt='Video Walkthrough' />
+- [x] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**  
+      👉<img src='https://github.com/user-attachments/assets/33acb98c-eca8-473c-9632-54424fc35403' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 - [x] **API calls use the async/await design pattern via Axios or fetch()**
 - [x] **Clicking on a content creator item takes the user to their details page, which includes their name, url, and description**
-      👉<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-      
+      👉<img src='https://github.com/user-attachments/assets/8d0d96cf-c3a9-471f-9025-8a57fae9a28e' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 - [x] **Each content creator has their own unique URL**
-      👉<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+      👉<img src='https://github.com/user-attachments/assets/8068199d-453e-45ff-8fa0-b28b65172859' title='Video Walkthrough' width='' alt='Video Walkthrough' />
       
+
 - [x] **The user can edit a content creator to change their name, url, or description**
-      👉<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-      
+      👉<img src='https://github.com/user-attachments/assets/e9a49ac9-14a0-47cd-acbc-35c42d21f477' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 - [x] **The user can delete a content creator**
-      👉<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+      👉<img src='https://github.com/user-attachments/assets/debf2390-3545-4a34-86a4-c65bd7e23645' title='Video Walkthrough' width='' alt='Video Walkthrough' />
       
 - [x] **The user can add a new content creator by entering a name, url, or description and then it is displayed on the homepage**
-      👉<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-      
+      👉<img src='https://github.com/user-attachments/assets/432cf212-8762-40f0-bcbd-85fe2971dd69' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 The following **optional** features are implemented:
 
@@ -47,6 +48,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+https://imgur.com/xrUqY7b
+👉<img src='https://imgur.com/xrUqY7b' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap 👉🏿 GIF tool here: https://licecap.en.download.it/
